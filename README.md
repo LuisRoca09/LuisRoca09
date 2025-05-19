@@ -1,16 +1,42 @@
-## Hi there 👋
+# Portafolio personal 🦦
 
-<!--
-**LuisRoca09/LuisRoca09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Este repositorio forma parte de mi portafolio en línea. Aquí comparto un resumen de quién soy, algunos de los proyectos que he desarrollado y las áreas que más me interesan en el mundo del desarrollo de software.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Contenido
+
+- [Información personal](#información-personal)
+- [Proyectos](#proyectos)
+- [Áreas de interés](#áreas-de-interés)
+- [Sitio web](#sitio-web)
+
+---
+
+## 🧾 Información personal
+
+- **Nombre:** Luis Ernesto Roca Macias
+- **Ocupación:** Estudiante de ESPOL
+- **Lugar de residencia:** Guayaquil, Ecuador
+- **Equipo:** IDOLO DEL ECUADOR BSC
+
+---
+
+## 🖥️ Proyectos
+
+Tristeza
+
+---
+
+## 🎯 Intereses
+
+
+
+---
+
+## 🌐 Sitio web
+
+
+
+---
