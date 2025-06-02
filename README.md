@@ -23,7 +23,7 @@ Este repositorio forma parte de mi portafolio en línea. Aquí comparto un resum
 
 ---
 
-## 🖥️ Proyectos
+## 🎯 Proyectos
 
 ### 🧩 PATTERNS
 Implementación de patrones de diseño como Abstract Factory, Decorator, Adapter y Builder para crear reportes dinámicos, aplicar estilos, integrar servicios externos y construir objetos complejos de forma flexible.
@@ -48,8 +48,20 @@ Aplicación de escritorio completa para reservar vuelos que cuenta con una inter
 
 ---
 
-## 🎯 Intereses
+## 🖥️ Tecnologias
 
+Durante el curso, desarrollé habilidades en diversas tecnologías, frameworks y patrones de diseño, aplicándolos en proyectos prácticos que abarcan distintos ámbitos y lenguajes de programación.
+
+1. **PATTERNS**  
+   En este proyecto implementé patrones de diseño como Abstract Factory, Decorator, Adapter y Builder para crear reportes dinámicos, aplicar estilos, integrar servicios externos y construir objetos complejos de forma flexible. Para lograrlo, apliqué los principios SOLID que facilitan la creación de código modular y mantenible, todo desarrollado en **Java**. Este proyecto fortaleció mi comprensión sobre cómo estructurar sistemas robustos y escalables mediante patrones de diseño.
+
+2. **Clínica Dental BD**  
+   Este es un sistema de aplicación de escritorio para la gestión completa de una clínica dental, con funcionalidades CRUD para pacientes, dentistas, asistentes, citas, tratamientos e historias clínicas. Para su desarrollo utilicé **Python** junto con la librería **Tkinter** para la interfaz gráfica, y **pymysql** como conector para interactuar con la base de datos **MySQL**. Además, incorporé la librería **PIL** para el manejo de imágenes. Este proyecto me permitió aplicar conocimientos en bases de datos, programación orientada a objetos y creación de interfaces de usuario intuitivas.
+
+3. **Agencia de vuelos**  
+   En este proyecto desarrollé una aplicación de escritorio con **Java** y **JavaFX**, orientada a facilitar la reserva de vuelos. La aplicación cuenta con una interfaz amigable para el usuario donde se puede seleccionar horarios, gestionar reservas y pagos. La experiencia me permitió profundizar en el desarrollo de interfaces gráficas avanzadas y la interacción con el usuario final, además de integrar lógica para la gestión de reservas en tiempo real.
+
+En conjunto, estos proyectos me ayudaron a consolidar competencias en programación, diseño de software, manejo de bases de datos y desarrollo de interfaces, utilizando tecnologías modernas y aplicando buenas prácticas de ingeniería de software.
 
 
 ---
