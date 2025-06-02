@@ -25,7 +25,12 @@ Este repositorio forma parte de mi portafolio en línea. Aquí comparto un resum
 
 ## 🖥️ Proyectos
 
-Tristeza
+### 🧩 TALLER04-PATTERNS
+Implementación de patrones de diseño como Abstract Factory, Decorator, Adapter y Builder para crear reportes dinámicos, aplicar estilos, integrar servicios externos y construir objetos complejos de forma flexible.
+
+- **Tecnologías:** Principios SOLID, Patrones de diseño, Java
+- 🔗 [Repositorio del proyecto](https://github.com/LuisRoca09/TALLER04-PATTERNS)
+
 
 ---
 
