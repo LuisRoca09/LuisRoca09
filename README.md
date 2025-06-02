@@ -19,7 +19,6 @@ Este repositorio forma parte de mi portafolio en línea. Aquí comparto un resum
 - **Nombre:** Luis Ernesto Roca Macias
 - **Ocupación:** Estudiante de ESPOL
 - **Lugar de residencia:** Guayaquil, Ecuador
-- **Equipo:** IDOLO DEL ECUADOR BSC
 
 ---
 
