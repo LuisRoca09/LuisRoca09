@@ -7,10 +7,12 @@ Este repositorio forma parte de mi portafolio en línea. Aquí comparto un resum
 
 ## Contenido
 
-- [Información personal](#información-personal)
+
+- [Información personal](#informacion-personal)
 - [Proyectos](#proyectos)
-- [Áreas de interés](#áreas-de-interés)
+- [Tecnologias](#tecnologias)
 - [Sitio web](#sitio-web)
+
 
 ---
 
