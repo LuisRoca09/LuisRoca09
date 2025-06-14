@@ -67,7 +67,7 @@ En conjunto, estos proyectos me ayudaron a consolidar competencias en programaci
 
 ## 🌐 Sitio web
 
-[![QR Code](./qr-code.png)](https://github.com/LuisRoca09)
+[![QR Code](./qr-code.png)]([https://github.com/LuisRoca09](https://luisroca09.github.io/LuisRoca09/))
 https://luisroca09.github.io/LuisRoca09/
 
 ---
